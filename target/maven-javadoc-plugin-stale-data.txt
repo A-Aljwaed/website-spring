@@ -1,0 +1,67 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/ahmad/.m2/repository/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-webmvc/5.2.2.RELEASE/spring-webmvc-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-core/5.2.2.RELEASE/spring-core-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-jcl/5.2.2.RELEASE/spring-jcl-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-expression/5.2.2.RELEASE/spring-expression-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar;C:/Users/ahmad/.m2/repository/org/springframework/security/spring-security-web/4.0.1.RELEASE/spring-security-web-4.0.1.RELEASE.jar;C:/Users/ahmad/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar;C:/Users/ahmad/.m2/repository/org/springframework/security/spring-security-core/4.0.1.RELEASE/spring-security-core-4.0.1.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/security/spring-security-config/4.0.1.RELEASE/spring-security-config-4.0.1.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/security/spring-security-taglibs/5.2.2.RELEASE/spring-security-taglibs-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/security/spring-security-acl/5.2.2.RELEASE/spring-security-acl-5.2.2.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-jdbc/5.2.3.RELEASE/spring-jdbc-5.2.3.RELEASE.jar;C:/Users/ahmad/.m2/repository/org/springframework/spring-tx/5.2.3.RELEASE/spring-tx-5.2.3.RELEASE.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/ahmad/Desktop/Projekte/GIT-PROJEKT/website-spring/src/main/java;C:/Users/ahmad/Desktop/Projekte/GIT-PROJEKT/website-spring/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ahmad/Desktop/Projekte/GIT-PROJEKT/website-spring/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'first-mvc-app 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ahmad/Desktop/Projekte/GIT-PROJEKT/website-spring/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'first-mvc-app 0.0.1-SNAPSHOT API'
+com.ahmadaljwaed.controller
+com.ahmadaljwaed.models
+com.ahmadaljwaed.service
+org.example
+C:\Users\ahmad\.m2\repository\javax\javaee-web-api\6.0\javaee-web-api-6.0.jar = 1725202812683
+C:\Users\ahmad\.m2\repository\org\springframework\spring-webmvc\5.2.2.RELEASE\spring-webmvc-5.2.2.RELEASE.jar = 1725202812858
+C:\Users\ahmad\.m2\repository\org\springframework\spring-aop\5.2.2.RELEASE\spring-aop-5.2.2.RELEASE.jar = 1725202805721
+C:\Users\ahmad\.m2\repository\org\springframework\spring-beans\5.2.2.RELEASE\spring-beans-5.2.2.RELEASE.jar = 1725202800708
+C:\Users\ahmad\.m2\repository\org\springframework\spring-context\5.2.2.RELEASE\spring-context-5.2.2.RELEASE.jar = 1725202813263
+C:\Users\ahmad\.m2\repository\org\springframework\spring-core\5.2.2.RELEASE\spring-core-5.2.2.RELEASE.jar = 1725202803835
+C:\Users\ahmad\.m2\repository\org\springframework\spring-jcl\5.2.2.RELEASE\spring-jcl-5.2.2.RELEASE.jar = 1725202804163
+C:\Users\ahmad\.m2\repository\org\springframework\spring-expression\5.2.2.RELEASE\spring-expression-5.2.2.RELEASE.jar = 1725202798786
+C:\Users\ahmad\.m2\repository\org\springframework\spring-web\5.2.2.RELEASE\spring-web-5.2.2.RELEASE.jar = 1725202809859
+C:\Users\ahmad\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar = 1725202801424
+C:\Users\ahmad\.m2\repository\org\springframework\security\spring-security-web\4.0.1.RELEASE\spring-security-web-4.0.1.RELEASE.jar = 1725202798589
+C:\Users\ahmad\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar = 1714578259389
+C:\Users\ahmad\.m2\repository\org\springframework\security\spring-security-core\4.0.1.RELEASE\spring-security-core-4.0.1.RELEASE.jar = 1725202798174
+C:\Users\ahmad\.m2\repository\org\springframework\security\spring-security-config\4.0.1.RELEASE\spring-security-config-4.0.1.RELEASE.jar = 1725202805800
+C:\Users\ahmad\.m2\repository\org\springframework\security\spring-security-taglibs\5.2.2.RELEASE\spring-security-taglibs-5.2.2.RELEASE.jar = 1725202794888
+C:\Users\ahmad\.m2\repository\org\springframework\security\spring-security-acl\5.2.2.RELEASE\spring-security-acl-5.2.2.RELEASE.jar = 1725202799430
+C:\Users\ahmad\.m2\repository\org\springframework\spring-jdbc\5.2.3.RELEASE\spring-jdbc-5.2.3.RELEASE.jar = 1725202811500
+C:\Users\ahmad\.m2\repository\org\springframework\spring-tx\5.2.3.RELEASE\spring-tx-5.2.3.RELEASE.jar = 1725202810800
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\src\main\java\login.jsp = 1725794402212
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\src\main\java = 1725794432372
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\generated-sources\annotations = 1725200184076
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\allclasses-index.html = 1727278129166
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\allpackages-index.html = 1727278129171
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\element-list = 1727278129025
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\help-doc.html = 1727278129234
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\index-all.html = 1727278129217
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\index.html = 1727278129153
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\member-search-index.js = 1727278129175
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\module-search-index.js = 1727278129172
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\overview-summary.html = 1727278129223
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\overview-tree.html = 1727278129150
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\package-search-index.js = 1727278129173
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\search.html = 1727278129220
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\tag-search-index.js = 1727278129177
+C:\Users\ahmad\Desktop\Projekte\GIT-PROJEKT\website-spring\target\reports\apidocs\type-search-index.js = 1727278129174

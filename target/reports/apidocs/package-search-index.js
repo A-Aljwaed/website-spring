@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ahmadaljwaed.controller"},{"l":"com.ahmadaljwaed.models"},{"l":"com.ahmadaljwaed.service"},{"l":"org.example"}];updateSearchResults();
